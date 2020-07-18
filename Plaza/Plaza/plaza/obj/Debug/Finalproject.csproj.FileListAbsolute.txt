@@ -1,0 +1,36 @@
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Finalproject.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Finalproject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\Debug\Finalproject.csproj.GenerateResource.Cache
+E:\OpenGL Projects\FinalProject\Plaza\plaza\bin\Debug\Plaza.exe.config
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Plaza.exe
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Finalproject.csprojResolveAssemblyReference.cache
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Plaza.MainForm.resources
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Finalproject.csproj.GenerateResource.Cache
+E:\OpenGL Projects\FinalProject\Plaza\plaza\bin\Debug\Plaza.exe
+E:\OpenGL Projects\FinalProject\Plaza\plaza\bin\Debug\Plaza.pdb
+E:\OpenGL Projects\FinalProject\Plaza\plaza\obj\Debug\Plaza.pdb
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\bin\Debug\Plaza.exe.config
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\bin\Debug\Plaza.exe
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\bin\Debug\Plaza.pdb
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Finalproject.csprojResolveAssemblyReference.cache
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Plaza.MainForm.resources
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Finalproject.csproj.GenerateResource.Cache
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Finalproject.csproj.CoreCompileInputs.cache
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Plaza.exe
+E:\OpenGL Projects\FinalProject1\Plaza\Plaza\plaza\obj\Debug\Plaza.pdb
