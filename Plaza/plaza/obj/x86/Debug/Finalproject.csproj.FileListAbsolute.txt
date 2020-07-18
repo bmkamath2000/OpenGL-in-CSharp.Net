@@ -1,0 +1,4 @@
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\bin\x86\Debug\Plaza.exe.config
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\x86\Debug\Plaza.MainForm.resources
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\x86\Debug\Plaza.Properties.Resources.resources
+C:\Users\DELL\Downloads\FinalProject\Plaza\plaza\obj\x86\Debug\Finalproject.csproj.GenerateResource.Cache

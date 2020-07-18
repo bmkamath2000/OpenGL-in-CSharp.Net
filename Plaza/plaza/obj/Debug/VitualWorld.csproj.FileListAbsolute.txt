@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.exe.config
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.exe
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.exe
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\Plaza.pdb
+C:\Users\DELL\Downloads\plaza\plaza\plaza\bin\Debug\ShadowEngine.pdb
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\VitualWorld.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.MainForm.resources
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\Plaza.Properties.Resources.resources
+C:\Users\DELL\Downloads\plaza\plaza\plaza\obj\Debug\VitualWorld.csproj.GenerateResource.Cache
